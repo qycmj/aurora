@@ -1,4 +1,4 @@
-public/uploads/
-runtime/
-.idea/
+public/uploads/*
+runtime/*
+.idea/*
 

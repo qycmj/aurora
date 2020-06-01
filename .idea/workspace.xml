@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="267f57cf-e73e-4aa0-b12a-f67e6b9e5f38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/cache/4e/819c837d54a6ed09abc77a8560a66f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/cache/a8/fa6f96dc43dfbbdd96b8733226f5da.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/cache/cb/78ef4a9130f39208ff10858ddd8377.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/19bbf7674c83279faa5f89aae3a81183.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/1e52554b423986491b1cf85b3c41ac2a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/3583c5238422a092e10694b2fd17ff50.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/35f633ca47ee29d4f935708ceb3e1aee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/38deb43e882d65dca4f659f6a813e758.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/4ae8f0c12e139f5bfea912472446cae3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/4db25bb004c7b1cc2edb9299cc3ea5f2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/6628674a7fe61771699b319aaa3e7a1f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/85d47bfacea15e70dce9f334b5f9f95a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/8ce01e2acb01515dc865e09b18b20711.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/902843316044c4c78793948b97b1975e.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/a061ac2933177b154a01b7127e4ca4ea.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/a5729c2c6a5c515c03e88db54666859f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/b4d6b96d996a7edcab981af72180c1d3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/bafea0260426b04939a6203c0deda873.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/c16e11b60f50abd6b958c4a6ec5bb2c0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/c351aa01a1a9dcf985cb290f0729b231.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/d427d34bbd38486e800b41e0fed721d8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/d8a65801d2a2c568cad1f627b701cc85.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/temp/f67bf80e688b36863cb0ae9747df658f.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +63,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/api/controller/Customer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+            <state relative-caret-position="690">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -92,6 +121,7 @@
         <option value="$PROJECT_DIR$/application/api/controller/crontab/Index.php" />
         <option value="D:/xp.cn/www/wwwroot/admin/ceshi.com_80/wwwroot/error/403.html" />
         <option value="$PROJECT_DIR$/application/api/controller/Customer.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -231,7 +261,7 @@
       <workItem from="1588640055726" duration="605000" />
       <workItem from="1588726798936" duration="599000" />
       <workItem from="1590744853409" duration="1907000" />
-      <workItem from="1590973231906" duration="1813000" />
+      <workItem from="1590973231906" duration="2278000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1590976861510</created>
@@ -244,13 +274,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76027000" />
+    <option name="totallyTimeSpent" value="76492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1263911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1263911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,7 +293,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3299532" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -510,10 +540,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/api/controller/Customer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        <state relative-caret-position="690">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
