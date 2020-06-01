@@ -1,0 +1,29 @@
+---------------------------------------------------------------
+[ 2020-05-18T10:29:18+08:00 ] 182.254.52.17 GET yc.cishivip.com///wp-login.php
+[运行时间：0.089602s] [吞吐率：11.16req/s] [内存消耗：1,682.36kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000090s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003720s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wp-login.php',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-for' => '182.254.52.17',
+  'referer' => 'http://yc.cishivip.com///wp-login.php',
+  'q-sub-business' => 'contentsecurity',
+  'accept-encoding' => 'gzip',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:57.0) Gecko/20100101 Firefox/57.0',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File

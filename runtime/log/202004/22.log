@@ -1,0 +1,97 @@
+---------------------------------------------------------------
+[ 2020-04-22T14:45:35+08:00 ] 110.87.131.234 GET yc.cishivip.com/api/crontab.index/customer
+[运行时间：0.451452s] [吞吐率：2.22req/s] [内存消耗：1,991.31kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000089s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003453s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'crontab.index',
+    2 => 'customer',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'postman-token' => '9f7f7c81-021f-40b5-8f96-0f9dc62713ef',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003038s ]
+[ info ] [ RUN ] app\api\controller\crontab\Index->customer[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\crontab\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-22T14:46:11+08:00 ] 110.87.131.234 GET yc.cishivip.com/api/crontab.index/customer
+[运行时间：0.263074s] [吞吐率：3.80req/s] [内存消耗：2,572.11kb] [文件加载：121]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000899s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'crontab.index',
+    2 => 'customer',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'postman-token' => '7070af14-3170-4bc3-b8b3-91633f6f674a',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000942s ]
+[ info ] [ RUN ] app\api\controller\crontab\Index->customer[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\crontab\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-22T14:46:35+08:00 ] 110.87.131.234 GET yc.cishivip.com/api/crontab.index/customer
+[运行时间：0.214786s] [吞吐率：4.66req/s] [内存消耗：1,991.32kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000900s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'crontab.index',
+    2 => 'customer',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'postman-token' => 'c33a152b-f3a5-4536-854a-ea268230a67a',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000929s ]
+[ info ] [ RUN ] app\api\controller\crontab\Index->customer[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\crontab\Index.php ]
+[ info ] [ LOG ] INIT File

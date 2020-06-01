@@ -1,0 +1,27 @@
+---------------------------------------------------------------
+[ 2020-05-16T12:33:09+08:00 ] 91.134.248.230 GET yc.cishivip.com/wp-login.php
+[运行时间：0.037672s] [吞吐率：26.55req/s] [内存消耗：1,954.13kb] [文件加载：106]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000208s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003183s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'wp-login.php',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-for' => '91.134.248.230',
+  'referer' => 'http://yc.cishivip.com/wp-login.php',
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File

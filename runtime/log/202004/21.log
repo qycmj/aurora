@@ -1,0 +1,2633 @@
+---------------------------------------------------------------
+[ 2020-04-21T09:33:49+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.098514s] [吞吐率：10.15req/s] [内存消耗：2,720.48kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000092s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002585s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => 'd3be83f4-7772-4c4c-a420-0d1d813e2229',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '28',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{id:\'2\'}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002884s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:34:14+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031967s] [吞吐率：31.28req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000895s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => 'a3b159ee-b884-434a-8349-850fa6e30067',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '34',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{id:\'2\'}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000944s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:34:21+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031078s] [吞吐率：32.18req/s] [内存消耗：2,720.85kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000890s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '78855b8a-fba9-40e1-ac4a-7a04a3615e27',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '34',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{id:\'2\'}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000949s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:34:27+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032223s] [吞吐率：31.03req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001030s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '3db4335b-722a-4943-a399-72e90840036d',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '34',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{id:\'2\'}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000994s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:35:12+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.042365s] [吞吐率：23.60req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000954s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '345807e2-0885-40ca-85f4-def82a439d07',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '34',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{[id:\'2\']}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000935s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:36:58+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.035313s] [吞吐率：28.32req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001097s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '18333915-16d6-4f72-9f54-8d13cc948ad1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001034s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:37:09+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030539s] [吞吐率：32.74req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000891s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '7f39ebe7-ef92-4075-9c5d-2e03768cbcf9',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000899s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:37:17+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031565s] [吞吐率：31.68req/s] [内存消耗：2,720.85kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000883s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '88d6db8c-81bd-47ac-ba01-519d345e9274',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000892s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:37:22+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030525s] [吞吐率：32.76req/s] [内存消耗：2,720.85kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000894s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '0277cb55-bb8c-42b7-847b-61debb9fc16e',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000879s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:37:45+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.029589s] [吞吐率：33.80req/s] [内存消耗：2,720.86kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000876s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '79d94ef4-23b5-4215-a486-44cdbc8308a6',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '41',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{"id":"22"}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000896s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:37:52+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031614s] [吞吐率：31.63req/s] [内存消耗：2,720.50kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000897s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => 'bc8f9a63-afa9-40fb-bb77-b6ae0b072566',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '41',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{"id":"22"}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000916s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:38:16+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031266s] [吞吐率：31.98req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000885s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '36dc21fe-0df6-49b8-8411-0596902bfff1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{id:"22"}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000898s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:38:19+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032731s] [吞吐率：30.55req/s] [内存消耗：2,720.48kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000015s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000926s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '358dfccd-677a-43ce-9654-6a5e77994d11',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '29',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{id:22}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000907s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:42:13+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.038350s] [吞吐率：26.08req/s] [内存消耗：2,720.48kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000094s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001174s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '72ff7429-f5d6-482c-8b36-4063b260bff7',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '29',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '[{id:22}]',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001238s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:42:38+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032005s] [吞吐率：31.25req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000911s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '5f16ee9e-c7b7-4295-925f-1b22a3ba2038',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000973s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:46:22+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.036773s] [吞吐率：27.19req/s] [内存消耗：2,720.45kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001152s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '66da87d6-ad5e-4246-9f0e-7c92bb881394',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '10',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001120s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:47:15+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030767s] [吞吐率：32.50req/s] [内存消耗：2,719.77kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000887s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '82ba4f0f-97b8-49d8-89c2-731627d862e8',
+  'content-type' => 'application/json',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '0',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000921s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:47:51+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030800s] [吞吐率：32.47req/s] [内存消耗：2,720.45kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000906s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '2707e65f-fa64-4f31-a376-8e242ac8e12b',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '10',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000894s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:47:58+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032554s] [吞吐率：30.72req/s] [内存消耗：2,720.45kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000919s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '1acee7ce-ae52-4720-851c-bdaa27e29e9c',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '10',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000912s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:48:00+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031176s] [吞吐率：32.08req/s] [内存消耗：2,720.45kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000882s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '0a2752d3-b93d-4605-81c0-89982a4fddbe',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '10',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000985s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:48:18+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030664s] [吞吐率：32.61req/s] [内存消耗：2,720.45kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000887s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '24ee7bd9-56ca-45e7-8440-dea5020c375b',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '10',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000889s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:48:35+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.035162s] [吞吐率：28.44req/s] [内存消耗：2,720.49kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001075s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '16481d00-974b-4ab2-9e31-80ddba466930',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001010s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:48:48+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030785s] [吞吐率：32.48req/s] [内存消耗：2,720.85kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000882s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '1eac409a-9ce7-4394-b42c-d901d5f8e29f',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '35',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000884s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:49:29+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.035043s] [吞吐率：28.54req/s] [内存消耗：2,719.77kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000882s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => 'f5926f48-ea6b-4b45-bda3-05b5e4a2bc21',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '0',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000893s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:49:38+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030588s] [吞吐率：32.69req/s] [内存消耗：2,721.26kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000873s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => 'cf2724aa-b8b8-4a98-8090-ea653b1eef6f',
+  'content-type' => 'multipart/form-data; boundary=--------------------------437802442293990699482410',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '166',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '11',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000893s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:49:56+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.037607s] [吞吐率：26.59req/s] [内存消耗：2,721.27kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000097s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001164s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '99e2a969-4175-43b7-a5d9-1999fd8a1e61',
+  'content-type' => 'multipart/form-data; boundary=--------------------------717506672397951260550730',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '175',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001142s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:50:06+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030903s] [吞吐率：32.36req/s] [内存消耗：2,721.63kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000882s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'postman-token' => '81213391-2f1b-4656-a8a5-a00f9879ab72',
+  'content-type' => 'multipart/form-data; boundary=--------------------------606032229436403895468420',
+  'cache-control' => 'no-cache',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'content-length' => '175',
+  'user-agent' => 'PostmanRuntime/7.24.1',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000945s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:52:46+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.042820s] [吞吐率：23.35req/s] [内存消耗：2,513.52kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001071s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'eo-token' => '97318ea7-4466-410d-8cc1-30a82be07a28',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '0',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001056s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:53:05+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.041166s] [吞吐率：24.29req/s] [内存消耗：2,719.21kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000868s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '3531086b-4b88-47f2-8a12-6aa052ca70ae',
+  'content-type' => 'application/json',
+  'content-length' => '2',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000919s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:53:19+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031352s] [吞吐率：31.90req/s] [内存消耗：2,719.93kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000870s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '1c6fafdb-8043-4f68-90a3-56f9c4c6ab85',
+  'content-type' => 'application/json',
+  'content-length' => '18',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '11',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000880s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:53:25+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.039589s] [吞吐率：25.26req/s] [内存消耗：2,719.96kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000869s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'e42d3c7d-386e-4552-bac5-859052b3d4be',
+  'content-type' => 'application/json',
+  'content-length' => '31',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000885s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:53:30+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.033934s] [吞吐率：29.47req/s] [内存消耗：2,865.29kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000860s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'c5a72aa0-7c02-47d2-9725-e22cccbf8871',
+  'content-type' => 'application/json',
+  'content-length' => '25',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => '22',
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000871s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T09:54:12+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032066s] [吞吐率：31.19req/s] [内存消耗：2,865.29kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000892s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '5d48c56c-0255-422a-832e-496f747887a3',
+  'content-type' => 'application/json',
+  'content-length' => '25',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => '22',
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000891s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T09:54:15+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.040759s] [吞吐率：24.53req/s] [内存消耗：2,719.96kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000011s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000869s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '77b30537-f218-422a-b4f7-1c7a09b2d9ec',
+  'content-type' => 'application/json',
+  'content-length' => '31',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '{"id":"22"}',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000882s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:56:04+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.046474s] [吞吐率：21.52req/s] [内存消耗：2,865.30kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001080s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'c6b68a8f-1dde-4230-a43b-8976ab1822e2',
+  'content-type' => 'application/json',
+  'content-length' => '26',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => '111',
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001013s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T09:56:19+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.042559s] [吞吐率：23.50req/s] [内存消耗：2,864.95kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000881s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '0bc7ff59-48a8-42a9-b392-1379cc79e185',
+  'content-type' => 'application/json',
+  'content-length' => '26',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => '111',
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000887s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T09:56:38+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032433s] [吞吐率：30.83req/s] [内存消耗：2,865.51kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000878s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '34c74bfb-1782-438b-8ad5-ab3b2b9a3499',
+  'content-type' => 'application/json',
+  'content-length' => '28',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    0 => 
+    array (
+      'id' => '111',
+    ),
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000900s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T09:57:14+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032407s] [吞吐率：30.86req/s] [内存消耗：2,864.91kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000864s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '3ec92d20-88a6-4b44-967e-b15ec8ca5af4',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000889s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T09:57:44+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.040810s] [吞吐率：24.50req/s] [内存消耗：2,720.05kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000878s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'ee159c00-c015-465d-a4d9-006025d11895',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000893s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:57:51+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.039289s] [吞吐率：25.45req/s] [内存消耗：2,720.05kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000856s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '7db33be0-9247-430e-8274-3b26c7605479',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000880s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T09:57:59+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.038254s] [吞吐率：26.14req/s] [内存消耗：2,865.22kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000084s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001073s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '771a469d-aad7-45b2-8c12-5b7a6a04cc91',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001122s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T10:08:04+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.041917s] [吞吐率：23.86req/s] [内存消耗：2,864.91kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000096s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001184s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '1b97010b-fa5e-4d94-8f71-bc2fe837d65f',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001218s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T10:08:11+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030301s] [吞吐率：33.00req/s] [内存消耗：2,719.41kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000867s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'a7ac0003-b15a-4ece-8246-e0e53f857181',
+  'content-type' => 'application/json',
+  'content-length' => '18',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => '11',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000948s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:08:17+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.041010s] [吞吐率：24.38req/s] [内存消耗：2,864.91kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000853s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'b498bdc6-706c-49aa-8b49-9b39a892e170',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000922s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T10:08:23+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.043078s] [吞吐率：23.21req/s] [内存消耗：2,865.02kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000863s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'eaf0b8a5-3b27-4572-b04c-ed2ac113adcc',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000914s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T10:08:43+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031862s] [吞吐率：31.39req/s] [内存消耗：2,864.99kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000854s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'a88c25da-3dc4-4897-9c9e-3048bee43b7b',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000878s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T10:10:22+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.036936s] [吞吐率：27.07req/s] [内存消耗：2,864.91kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001086s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'b1e447ab-e321-48e0-b6a9-5295ebb95010',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001029s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T10:10:30+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.032985s] [吞吐率：30.32req/s] [内存消耗：2,864.91kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000884s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'c53d87e0-4e82-41ea-8840-8adda02fd2e1',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000905s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]variable type error：array[D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\library\think\Request.php:1162]
+---------------------------------------------------------------
+[ 2020-04-21T10:12:20+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.029858s] [吞吐率：33.49req/s] [内存消耗：2,719.77kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000862s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '6956e87f-ae48-4de2-982d-1a219bc90a75',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000877s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:12:44+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.034818s] [吞吐率：28.72req/s] [内存消耗：2,720.21kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001061s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'eae55eef-026d-43cf-a301-2222ddaeaa0c',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001027s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:13:20+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030199s] [吞吐率：33.11req/s] [内存消耗：2,720.57kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000865s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '9e192878-b41a-4fac-9f36-1f99019bebc6',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000875s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:13:36+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.031657s] [吞吐率：31.59req/s] [内存消耗：2,766.44kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000871s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '1517d80d-8826-447c-8674-071a1461f870',
+  'content-type' => 'application/json',
+  'content-length' => '24',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000887s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:13:59+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.036619s] [吞吐率：27.31req/s] [内存消耗：2,726.60kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000887s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '44a082c1-e81f-447d-8dbe-b50f6b3b5c4a',
+  'content-type' => 'application/json',
+  'content-length' => '51',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+  ),
+  'uid' => '685342002636063104',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000878s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:14:20+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.038366s] [吞吐率：26.06req/s] [内存消耗：2,726.75kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000014s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000910s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '14422f13-785b-4e73-8581-ab407c75f6f9',
+  'content-type' => 'application/json',
+  'content-length' => '67',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+    'name' => '测试',
+  ),
+  'uid' => '685342002636063104',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000875s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:17:39+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.037928s] [吞吐率：26.37req/s] [内存消耗：2,721.50kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000092s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001100s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => 'c085b867-52cc-486d-8589-97937ef05910',
+  'content-type' => 'application/json',
+  'content-length' => '67',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+    'name' => '测试',
+  ),
+  'uid' => '685342002636063104',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001197s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T10:17:42+08:00 ] 110.87.131.234 POST yc.cishivip.com/api/Customer/editCustomerExtra
+[运行时间：0.030503s] [吞吐率：32.78req/s] [内存消耗：2,767.22kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000866s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'Customer',
+    2 => 'editCustomerExtra',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'x-forwarded-for' => '110.87.131.234',
+  'token' => 'c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'eo-token' => '45651f2e-8115-4144-8b79-26e08a84e9c3',
+  'content-type' => 'application/json',
+  'content-length' => '40',
+  'connection' => 'close',
+  'user-agent' => 'EOLINKER',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'extraInfo' => 
+  array (
+    'id' => 111,
+    'name' => '测试',
+  ),
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000928s ]
+[ info ] [ TOKEN ] INIT Mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\api\controller\Customer->editCustomerExtra[ D:\phpStudy\PHPTutorial\WWW\aurora\application\api\controller\Customer.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T11:05:36+08:00 ] 127.0.0.1 GET test.aurora.com/HPkDuzeOnE.php/index/index
+[运行时间：0.040811s] [吞吐率：24.50req/s] [内存消耗：2,341.59kb] [文件加载：122]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000092s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001151s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://test.aurora.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php%2Findex%2Findex',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'test.aurora.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001303s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/common\view\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000238s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T11:05:37+08:00 ] 127.0.0.1 GET test.aurora.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php%2Findex%2Findex
+[运行时间：0.026633s] [吞吐率：37.55req/s] [内存消耗：2,590.47kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000887s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7kmqehvr4vi6arrcf4kvbdnrie',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://test.aurora.com/HPkDuzeOnE.php/index/index',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'test.aurora.com',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/HPkDuzeOnE.php/index/index',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001020s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpStudy\PHPTutorial\WWW\aurora\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000121s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T11:05:38+08:00 ] 127.0.0.1 GET test.aurora.com/index.php?s=/captcha
+[运行时间：0.021521s] [吞吐率：46.47req/s] [内存消耗：1,634.61kb] [文件加载：105]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000954s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7kmqehvr4vi6arrcf4kvbdnrie',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://test.aurora.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php%2Findex%2Findex',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'test.aurora.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ D:\phpStudy\PHPTutorial\WWW\aurora\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T11:05:38+08:00 ] 127.0.0.1 GET test.aurora.com/HPkDuzeOnE.php/ajax/lang?callback=define&controllername=index&v=1587438337
+[运行时间：0.027542s] [吞吐率：36.31req/s] [内存消耗：2,598.08kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000880s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=7kmqehvr4vi6arrcf4kvbdnrie',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://test.aurora.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php%2Findex%2Findex',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'test.aurora.com',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1587438337',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001149s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpStudy\PHPTutorial\WWW\aurora\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000187s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T14:35:10+08:00 ] 110.87.131.234 GET yc.cishivip.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php
+[运行时间：0.034372s] [吞吐率：29.09req/s] [内存消耗：2,592.50kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000098s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001353s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'upgrade-insecure-requests' => '1',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'referer' => 'https://yc.cishivip.com/HPkDuzeOnE.php',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1582708143,1582770234; uid=1; token=c4a9847e-ec08-4391-8d48-4f9655bc3333',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/HPkDuzeOnE.php',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001230s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpStudy\PHPTutorial\WWW\aurora\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000183s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T14:35:10+08:00 ] 110.87.131.234 GET yc.cishivip.com/index.php?s=/captcha
+[运行时间：0.018337s] [吞吐率：54.53req/s] [内存消耗：1,636.04kb] [文件加载：105]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000013s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000853s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'https://yc.cishivip.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1582708143,1582770234; uid=1; token=c4a9847e-ec08-4391-8d48-4f9655bc3333; PHPSESSID=9ih7v878i2429gcqq0lcriohr6',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ D:\phpStudy\PHPTutorial\WWW\aurora\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T14:35:10+08:00 ] 110.87.131.234 GET yc.cishivip.com/HPkDuzeOnE.php/ajax/lang?callback=define&controllername=index&v=1587450910
+[运行时间：0.023465s] [吞吐率：42.62req/s] [内存消耗：2,600.01kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000838s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'https://yc.cishivip.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1582708143,1582770234; uid=1; token=c4a9847e-ec08-4391-8d48-4f9655bc3333; PHPSESSID=9ih7v878i2429gcqq0lcriohr6',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1587450910',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000914s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpStudy\PHPTutorial\WWW\aurora\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000109s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T17:40:09+08:00 ] 110.87.131.234 GET yc.cishivip.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php
+[运行时间：0.033821s] [吞吐率：29.57req/s] [内存消耗：2,593.42kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000102s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001250s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'upgrade-insecure-requests' => '1',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'referer' => 'https://yc.cishivip.com/HPkDuzeOnE.php',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1582708143,1582770234; uid=1; token=c4a9847e-ec08-4391-8d48-4f9655bc3333; PHPSESSID=9ih7v878i2429gcqq0lcriohr6',
+  'cache-control' => 'max-age=0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'url' => '/HPkDuzeOnE.php',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001236s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ RUN ] app\admin\controller\Index->login[ D:\phpStudy\PHPTutorial\WWW\aurora\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\view\index\login.html [ array (
+  0 => 'breadcrumb',
+  1 => 'site',
+  2 => 'config',
+  3 => 'auth',
+  4 => 'admin',
+  5 => 'background',
+  6 => 'title',
+) ]
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000197s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T17:40:09+08:00 ] 110.87.131.234 GET yc.cishivip.com/index.php?s=/captcha
+[运行时间：0.018965s] [吞吐率：52.73req/s] [内存消耗：1,636.16kb] [文件加载：105]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000891s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'method',
+  'method' => 
+  array (
+    0 => '\\think\\captcha\\CaptchaController',
+    1 => 'index',
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'https://yc.cishivip.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1582708143,1582770234; uid=1; token=c4a9847e-ec08-4391-8d48-4f9655bc3333; PHPSESSID=9ih7v878i2429gcqq0lcriohr6',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'id' => NULL,
+)
+[ info ] [ RUN ] think\captcha\CaptchaController->index[ D:\phpStudy\PHPTutorial\WWW\aurora\vendor\topthink\think-captcha\src\CaptchaController.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2020-04-21T17:40:10+08:00 ] 110.87.131.234 GET yc.cishivip.com/HPkDuzeOnE.php/ajax/lang?callback=define&controllername=index&v=1587462009
+[运行时间：0.025444s] [吞吐率：39.30req/s] [内存消耗：2,600.01kb] [文件加载：125]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000012s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000891s ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'ajax',
+    2 => 'lang',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'x-forwarded-for' => '110.87.131.234',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'referer' => 'https://yc.cishivip.com/HPkDuzeOnE.php/index/login?url=%2FHPkDuzeOnE.php',
+  'cookie' => 'Hm_lvt_f8d0a8c400404989e195270b0bbf060a=1582708143,1582770234; uid=1; token=c4a9847e-ec08-4391-8d48-4f9655bc3333; PHPSESSID=9ih7v878i2429gcqq0lcriohr6',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => 'yc.cishivip.com',
+)
+[ info ] [ PARAM ] array (
+  'callback' => 'define',
+  'controllername' => 'index',
+  'v' => '1587462009',
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001039s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/ajax.php
+[ info ] [ RUN ] app\admin\controller\Ajax->lang[ D:\phpStudy\PHPTutorial\WWW\aurora\application\admin\controller\Ajax.php ]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\aurora\public/../application/admin/lang/zh-cn/index.php
+[ info ] [ BEHAVIOR ] Run app\admin\behavior\AdminLog @app_end [ RunTime:0.000128s ]
+[ info ] [ LOG ] INIT File
