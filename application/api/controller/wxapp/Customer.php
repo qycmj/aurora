@@ -322,22 +322,57 @@ class Customer extends Base
      */
     public function syncInfo()
     {
-        $mobile = $this->request->post('mobile');//手机号码
         // /a就相当于告诉解析器我要获取一个数组
-        $extraInfo = $this->request->post('extra');//会员额外信息为此字段
+        $extraInfo = $this->request->post('extra');//车厂会员信息-批量数据 array
 
-        if (!empty($mobile) && !empty($extraInfo)) {
-            //手机号是否已存在
-            $customer = \app\api\model\aurora\Customer::where('mobile', $mobile)->find();
+        if (!empty($extraInfo)) {
+            $extraList = (array)json_decode(htmlspecialchars_decode($extraInfo), true);
 
-            if ($customer) {
-                $customer->extraInfo = htmlspecialchars_decode($extraInfo);
-                $customer->save();
+            if (is_array($extraList) && count($extraList) > 0) {
+                $model = new \app\api\model\aurora\Customer;
+                $matchIdArr = [];//已匹配更新的车厂会员ID
+                foreach ($extraList as $key => $extra) {
+                    $mobile = $extra['mobile'];//车厂会员手机号码
+
+                    $data = $extra['data'];//车厂会员数据
+
+                    //手机号是否已存在
+                    $customer = $model::where('mobile', $mobile)->find();
+
+                    if ($customer) {
+                        $customer->extraInfo = json_encode($data);
+                        $customer->save();
+
+                        $matchIdArr[] = $customer->id;
+                    } else {
+                        $model::create(['mobile' => $mobile, 'extraInfo' => htmlspecialchars_decode($extraInfo), 'main' => 0]);
+                    }
+                }
+
+                if (is_array($matchIdArr) && count($matchIdArr) > 0) {
+                    //查询车厂会员所有信息
+                    $customerList = $model->field('id')->select();
+                    $customerList = collection($customerList)->toArray();
+                    
+                    //所有车厂会员ID
+                    $customerIdArr = [];
+                    foreach ($customerList as $value) {
+                        $customerIdArr[] = $value['id'];
+                    }
+
+                    //未匹配的车厂会员ID
+                    $noMatchIdArr = array_diff($customerIdArr, $matchIdArr);
+
+                    if (is_array($noMatchIdArr) && count($noMatchIdArr) > 0) {
+                        //未匹配的车厂会员-将车厂信息删除
+                        $model::update(['extraInfo' => ''], ['id' => ['in', $noMatchIdArr]]);
+                    }
+                }
+
+                $this->success('同步成功');
             } else {
-                \app\api\model\aurora\Customer::create(['mobile' => $mobile, 'extraInfo' => htmlspecialchars_decode($extraInfo), 'main' => 0]);
+                $this->error('数据类型错误');
             }
-
-            $this->success('同步成功');
         } else {
             $this->error('参数丢失');
         }
