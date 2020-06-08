@@ -27,6 +27,7 @@ return array (
     'dictionary' => 'Dictionary',
     'user' => 'User',
     'example' => 'Example',
+    'wxapp' => '微信小程序',
   ),
   'mail_type' => '1',
   'mail_smtp_host' => 'smtp.qq.com',
@@ -35,4 +36,6 @@ return array (
   'mail_smtp_pass' => 'password',
   'mail_verify_type' => '2',
   'mail_from' => '10000@qq.com',
+  'wxapp_appid' => 'wx09d72b0bd7f41be5',
+  'wxapp_secret' => 'fa46888f1e8347f4fe9a0d311d7dfd7d',
 );
