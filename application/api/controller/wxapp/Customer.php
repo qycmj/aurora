@@ -330,7 +330,7 @@ class Customer extends Base
 
             if (is_array($extraList) && count($extraList) > 0) {
                 $model = new \app\api\model\aurora\Customer;
-                $matchIdArr = [];//已匹配更新的车厂会员ID
+                $matchIdArr = [];//已匹配更新或新增的车厂会员ID
                 foreach ($extraList as $key => $extra) {
                     $mobile = $extra['mobile'];//车厂会员手机号码
 
@@ -345,28 +345,14 @@ class Customer extends Base
 
                         $matchIdArr[] = $customer->id;
                     } else {
-                        $model::create(['mobile' => $mobile, 'extraInfo' => htmlspecialchars_decode($extraInfo), 'main' => 0]);
+                        $insert = $model::create(['mobile' => $mobile, 'extraInfo' => json_encode($data), 'main' => 0]);
+                        $matchIdArr[] = $insert->id;
                     }
                 }
 
                 if (is_array($matchIdArr) && count($matchIdArr) > 0) {
-                    //查询车厂会员所有信息
-                    $customerList = $model->field('id')->select();
-                    $customerList = collection($customerList)->toArray();
-                    
-                    //所有车厂会员ID
-                    $customerIdArr = [];
-                    foreach ($customerList as $value) {
-                        $customerIdArr[] = $value['id'];
-                    }
-
-                    //未匹配的车厂会员ID
-                    $noMatchIdArr = array_diff($customerIdArr, $matchIdArr);
-
-                    if (is_array($noMatchIdArr) && count($noMatchIdArr) > 0) {
-                        //未匹配的车厂会员-将车厂信息删除
-                        $model::update(['extraInfo' => ''], ['id' => ['in', $noMatchIdArr]]);
-                    }
+                    //未匹配的车厂会员-保留关联，将车厂信息删除
+                    $model::update(['extraInfo' => ''], ['id' => ['not in', $matchIdArr]]);
                 }
 
                 $this->success('同步成功');
