@@ -27,10 +27,11 @@ class Customer extends Model
     protected $append = [
 
     ];
-    
 
-    
 
+    public function user(){
+        return $this->hasOne('\app\common\model\User','id','user_id');
+    }
 
 
 
