@@ -1,0 +1,43 @@
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>{:__('Title')}</th>
+        <th>{:__('Content')}</th>
+    </tr>
+    </thead>
+    <tbody>
+
+    <tr>
+        <td>会员ID</td>
+        <td>{$row.user.id}</td>
+    </tr>
+    <tr>
+        <td>会员名称</td>
+        <td>{$row.user.nickname}</td>
+    </tr>
+    <tr>
+        <td>会员联系电话</td>
+        <td>{$row.user.mobile}</td>
+    </tr>
+    <tr>
+        <td>是否为用户主手机号</td>
+        <td>{$row.main ? '是' : '否'}</td>
+    </tr>
+    <tr>
+        <td>会员车厂信息</td>
+        <td>{$row.extraInfo}</td>
+    </tr>
+    <tr>
+        <td>创建时间</td>
+        <td>{$row.createtime|date="Y-m-d H:i",###}</td>
+    </tr>
+
+    </tbody>
+</table>
+<div class="hide layer-footer">
+    <label class="control-label col-xs-12 col-sm-2"></label>
+    <div class="col-xs-12 col-sm-8">
+        <button type="reset" class="btn btn-primary btn-embossed btn-close" onclick="Layer.closeAll();">{:__('Close')}
+        </button>
+    </div>
+</div>

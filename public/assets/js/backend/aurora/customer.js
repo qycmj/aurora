@@ -16,21 +16,49 @@ define(['jquery', 'bootstrap', 'backend', 'table', 'form'], function ($, undefin
 
             var table = $("#table");
 
+            $.fn.bootstrapTable.locales[Table.defaults.locale]['formatSearch'] = function(){return "根据会员联系方式搜索";};
+
             // 初始化表格
             table.bootstrapTable({
                 url: $.fn.bootstrapTable.defaults.extend.index_url,
                 pk: 'id',
                 sortName: 'id',
+                //showColumns: false,
+                commonSearch: false,
                 columns: [
                     [
                         {checkbox: true},
                         {field: 'id', title: __('Id')},
                         {field: 'user_id', title: __('User_id')},
                         {field: 'mobile', title: __('Mobile')},
-                        {field: 'main', title: __('Main')},
+                        {field: 'main', title: __('Main'), searchList: {"1": __('是'),"0": __('否')}, formatter: Table.api.formatter.label},//
                         {field: 'createtime', title: __('Createtime'), operate:'RANGE', addclass:'datetimerange', formatter: Table.api.formatter.datetime},
                         {field: 'updatetime', title: __('Updatetime'), operate:'RANGE', addclass:'datetimerange', formatter: Table.api.formatter.datetime},
-                        {field: 'operate', title: __('Operate'), table: table, events: Table.api.events.operate, formatter: Table.api.formatter.operate}
+                        //{field: 'operate', title: __('Operate'), table: table, events: Table.api.events.operate, formatter: Table.api.formatter.operate}
+                        {
+                            field: 'operate',
+                            title: __('Operate'),
+                            table: table,
+                            events: Table.api.events.operate,
+                            buttons: [
+                                {
+                                    name: 'detail',
+                                    text: __('详情'),
+                                    title: __('用户详情'),
+                                    classname: 'btn btn-xs btn-primary btn-dialog',
+                                    url: 'aurora/customer/detail',
+                                    icon: 'fa fa-list',
+/*                                    callback: function (row) {
+
+                                    },*/
+/*                                    visible: function (row) {
+                                        //返回true时按钮显示,返回false隐藏
+                                        return true;
+                                    }*/
+                                }
+                            ],
+                            formatter: Table.api.formatter.operate
+                        }
                     ]
                 ]
             });
